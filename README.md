@@ -1,5 +1,6 @@
 
 # ELDER HELPER - UX & UI 프로젝트
+2019 | UX&UI PROJECT
 
 ## 프로젝트 개요
 
